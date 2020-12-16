@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
-title: Steven Diamond Portfolio
-email: bwood.consulting@gmail.com
-description: This site includes various data science projects that I have done.
+title: "Steven Diamond Portfolio"
+email: "bwood.consulting@gmail.com"
+description: "This site includes various data science projects that I have done."
 baseurl: "/documents/git_repos/stevenwdiamond.github.io"
 url: “localhost:4000”
-github_username: StevenWDiamond
+github_username: "StevenWDiamond"

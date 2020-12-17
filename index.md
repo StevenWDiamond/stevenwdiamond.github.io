@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-**Welcome to my portfolio site, where you can: 
+**Welcome to my portfolio site, where you can:**
 * **Learn about me**
 * **See my data science projects**
 * **Read my blogs**

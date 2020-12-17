@@ -7,4 +7,4 @@ title: Home
 
 ![image](/assets/Images/library_selfie.jpeg)
  
-## [About Me](https://stevenwdiamond.github.io/about/)
+### [About Me](https://stevenwdiamond.github.io/about/)
